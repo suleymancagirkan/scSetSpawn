@@ -1,0 +1,13 @@
+spawn:
+  world: world
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0.0
+  pitch: 0.0
+settings:
+  prefix: "<GRADIENT:0A85ED>SetSpawn</GRADIENT:07C8F9><SOLID:555555> ▪ <SOLID:FFFFFF>"
+  ayarlandıMesajı: "Oluşum noktası başarıyla ayarlandı!"
+  ısınlanıldıMesajı: "Başlangıç konumuna başarıyla ışınlandın!"
+  spawnBulunamadıMesajı: "Başlangıç konumu bulunamadı! Lütfen /setspawn komutunu kullanın!"
+  configYenilendi: "Config dosyası başarıyla yenilendi."

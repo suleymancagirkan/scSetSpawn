@@ -1,0 +1,12 @@
+name: scSetSpawn
+version: '${project.version}'
+main: store.aethra.scsetspawn.ScSetSpawn
+api-version: 1.17
+authors: [ Suleymannn ]
+description: SetSpawn plugin
+website: aethra.store
+commands:
+  setspawn:
+    description: Spawnı ayarlar
+  spawn:
+    description: Spawna ışınlar
